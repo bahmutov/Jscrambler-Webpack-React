@@ -1,0 +1,1 @@
+From [Easy Custom Webpack Setup for React.js Applications](https://blog.jscrambler.com/easy-custom-webpack-setup-for-react-js-applications/) repository [JscramblerBlog/Jscrambler-Webpack-React](https://github.com/JscramblerBlog/Jscrambler-Webpack-React)

@@ -1,0 +1,8 @@
+{
+  "fixturesFolder": false,
+  "experimentalComponentTesting": true,
+  "componentFolder": "src",
+  "testFiles": "**/*spec.*",
+  "baseUrl": "http://localhost:8080",
+  "nodeVersion": "system"
+}
